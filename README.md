@@ -1,2 +1,0 @@
-# Trabalho
-trabalho-de-git
